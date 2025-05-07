@@ -44,3 +44,6 @@ if (form) {
 document.getElementById("toggleDark").addEventListener("click", () => {
   document.body.classList.toggle("dark-mode");
 });
+<footer>
+  <p>&copy; 2025 MyWebsite. All rights reserved.</p>
+</footer>
