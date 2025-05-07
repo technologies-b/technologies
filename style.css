@@ -117,3 +117,7 @@ a:hover {
     padding: 0.6rem 1.2rem;
   }
 }
+.btn.clicked {
+  transform: scale(0.95);
+  opacity: 0.9;
+}
