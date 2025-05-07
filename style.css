@@ -166,3 +166,10 @@ body.dark-mode {
 body.dark-mode .navbar {
   background: #222;
 }
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  background: #111;
+  color: white;
+  margin-top: 3rem;
+}
