@@ -173,3 +173,17 @@ footer {
   color: white;
   margin-top: 3rem;
 }
+.social-icons {
+  margin-top: 1rem;
+}
+
+.social-icons a {
+  color: white;
+  margin: 0 10px;
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #aaa;
+}
