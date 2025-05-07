@@ -187,3 +187,7 @@ footer {
 .social-icons a:hover {
   color: #aaa;
 }
+.logo img {
+  width: 120px;
+  height: auto;
+}
